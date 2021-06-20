@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/screenshot.png">
 
 This 'Move-To-OU' was done in PowerShell to automate the User/User's move between OU path from Active Directory (Windows Server).
 
