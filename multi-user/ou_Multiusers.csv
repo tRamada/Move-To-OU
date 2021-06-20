@@ -1,0 +1,4 @@
+Site,OU
+PT,"OU=Users,OU=PT,OU=mutega,DC=ramada,DC=local"
+SE,"OU=Users,OU=SE,OU=mutega,DC=ramada,DC=local"
+US,"OU=Users,OU=US,OU=mutega,DC=ramada,DC=local"
