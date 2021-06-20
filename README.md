@@ -108,7 +108,7 @@ This is an example of how to list things you need to use the software and how to
    ```
    git clone https://github.com/tRamada/Move-To-OU.git
    ```
-3. Right-Click on 'app.ps1'
+3. Right-Click on 'multi-user/app.ps1'
 4. Run with PowerShell
 
 
