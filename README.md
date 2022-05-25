@@ -32,7 +32,6 @@
     <a href="https://github.com/tRamada"><strong>Explore my GitHub »</strong></a>
     <br />
     <br />
-    <a href="https://tramada.github.io/">->My Online-Portofolio<-</a>
   </p>
 </p>
 
